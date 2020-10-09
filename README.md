@@ -4,6 +4,7 @@ Keybinds:
   1. Close Game: Q
   2. Open Menu: ENTER
   3. Save Game: S
+  
 Commands:
   1. Add Cookies: add
   2. Set Cookies: set (cookies/lumps)

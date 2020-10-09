@@ -11,6 +11,7 @@ Commands:
   > Reset Game: reset
   > Popup message: say/popup
   > Add Grandma Name: addname
+  
 ABOUT:
 
 This is a simple Cookie Clicker mod menu I'm working on

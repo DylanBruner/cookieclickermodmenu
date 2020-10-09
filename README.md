@@ -15,8 +15,7 @@ Commands:
   7. Toggle Mobile Mode: mobile
   8. Advanced Help: advancedhelp
   9. Credits Info: credits
-  10. Author Info: author
-  
+
   
 HOW TO USE:
 

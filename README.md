@@ -4,6 +4,7 @@ Keybinds:
   1. Close Game: Q
   2. Open Menu: ENTER
   3. Save Game: S
+  4. Click Cookie: Space Bar
   
 Commands:
   1. Add Cookies: add

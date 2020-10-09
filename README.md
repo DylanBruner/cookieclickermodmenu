@@ -1,16 +1,16 @@
 FEATURES:
 
 Keybinds:
-  > Close Game: Q
-  > Open Menu: ENTER
-  > Save Game: S
+  1. Close Game: Q
+  2. Open Menu: ENTER
+  3. Save Game: S
 Commands:
-  > Add Cookies: add
-  > Set Cookies: set (cookies/lumps)
-  > Max Game: max
-  > Reset Game: reset
-  > Popup message: say/popup
-  > Add Grandma Name: addname
+  1. Add Cookies: add
+  2. Set Cookies: set (cookies/lumps)
+  3. Max Game: max
+  4. Reset Game: reset
+  5. Popup message: say/popup
+  6. Add Grandma Name: addname
   
 ABOUT:
 

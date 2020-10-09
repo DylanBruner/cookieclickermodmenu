@@ -1,10 +1,10 @@
 FEATURES:
 
-> Keybinds:
+Keybinds:
   > Close Game: Q
   > Open Menu: ENTER
   > Save Game: S
-> Commands:
+Commands:
   > Add Cookies: add
   > Set Cookies: set (cookies/lumps)
   > Max Game: max

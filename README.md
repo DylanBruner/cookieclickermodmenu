@@ -14,10 +14,6 @@ Commands:
   6. Add Grandma Name: addname
   
   
-ABOUT:
-
-This is a simple Cookie Clicker mod menu I'm working on
-
 HOW TO USE:
 
 1. Open Cookie Clicker

@@ -17,6 +17,7 @@ Commands:
   8. Advanced Help: advancedhelp
   9. Credits Info: credits
   10. Open This: github
+  11. autoclick
 
   
 HOW TO USE:

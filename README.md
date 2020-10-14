@@ -28,7 +28,7 @@ Option 1:
 3. Copy all the code from code.js and paste it after "javascript: "
 
 Option 2:
-1. Create a bookmark and copy the code into the url/page box
+1. Create a bookmark and copy the code into the url/page box, make sure you have "javascript: <pasteCodeHere>"
 2. Open the bookmark when on the cookie clicker site
 
 NOTES:

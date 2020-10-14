@@ -22,9 +22,14 @@ Commands:
   
 HOW TO USE:
 
+Option 1:
 1. Open Cookie Clicker
 2. Go to the Navigation bar and TYPE "javascript: "
 3. Copy all the code from code.js and paste it after "javascript: "
+
+Option 2:
+1. Create a bookmark and copy the code into the url/page box
+2. Open the bookmark when on the cookie clicker site
 
 NOTES:
 

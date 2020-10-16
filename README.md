@@ -1,3 +1,19 @@
+Addon:
+
+FEATURES:
+
+Keybinds:
+  1. Save Game: S
+  2. Open Menu: Enter
+  3. Click Cookie: Space
+  
+Commands:
+  1. help
+  2. boost
+
+
+Cheat:
+
 FEATURES:
 
 Keybinds:

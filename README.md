@@ -18,6 +18,7 @@ Commands:
   9. Credits Info: credits
   10. Open This: github
   11. autoclick
+  12. stopautoclick
 
   
 HOW TO USE:

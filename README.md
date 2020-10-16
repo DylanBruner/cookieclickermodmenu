@@ -41,11 +41,14 @@ Commands:
   13. say
 
   
+
+======================================================================
+
 HOW TO USE:
 
 1. Open Cookie Clicker
 2. Go to the Navigation bar and TYPE "javascript: "
-3. Copy all the code from code.js and paste it after "javascript: "
+3. Copy all the code from cheat.js/addon.js and paste it after "javascript: "
 
 
 NOTES:

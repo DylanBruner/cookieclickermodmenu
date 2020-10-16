@@ -19,6 +19,7 @@ Commands:
   10. Open This: github
   11. autoclick
   12. stopautoclick
+  13. say
 
   
 HOW TO USE:

@@ -58,4 +58,4 @@ You may modify this as long as you don't repost it without a link to this gitub
 
 HELP:
 
-If you can't get the menu working or wan't to request a feature our Discord server is the best place discord.gg/CfeWysN
+If you can't get the menu working and need help or wan't to request a feature our Discord server is the best place discord.gg/CfeWysN

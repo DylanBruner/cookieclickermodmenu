@@ -7,7 +7,9 @@ Updates:
 Help:
 
  > addon.js is a less powerfull cheat menu which just makes the game move faster
+ 
  > cheat.js is the old mod menu
+ 
  > other.js is the new and updated mod menu
 
 ======================================================================

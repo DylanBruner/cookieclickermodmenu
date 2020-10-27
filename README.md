@@ -1,3 +1,8 @@
+Updates:
+
+ > cheat.js will no longer be updated everything will be moved to other.js
+
+
 ======================================================================
 
 Addon:
@@ -48,7 +53,7 @@ HOW TO USE:
 
 1. Open Cookie Clicker
 2. Go to the Navigation bar and TYPE "javascript: "
-3. Copy all the code from cheat.js/addon.js and paste it after "javascript: "
+3. Copy all the code from cheat.js/addon.js/other.js and paste it after "javascript: "
 
 
 NOTES:
